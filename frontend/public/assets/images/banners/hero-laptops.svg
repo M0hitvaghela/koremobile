@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Laptop hero illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="60%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#c7d2fe" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)" />
+  <circle cx="90" cy="520" r="70" fill="#1d4ed8" opacity="0.08" />
+  <circle cx="520" cy="120" r="80" fill="#0ea5e9" opacity="0.08" />
+  <rect x="120" y="120" width="360" height="250" rx="18" fill="#0f172a" />
+  <rect x="140" y="140" width="320" height="210" rx="12" fill="url(#screen)" />
+  <rect x="90" y="380" width="420" height="40" rx="18" fill="#111827" />
+  <rect x="140" y="388" width="320" height="24" rx="12" fill="#1f2937" />
+  <rect x="250" y="392" width="100" height="16" rx="8" fill="#94a3b8" />
+</svg>

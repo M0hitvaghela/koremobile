@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Smartphone hero illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#38bdf8" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)" />
+  <circle cx="120" cy="110" r="60" fill="#ffffff" opacity="0.08" />
+  <circle cx="520" cy="480" r="90" fill="#ffffff" opacity="0.06" />
+  <rect x="165" y="70" width="270" height="460" rx="42" fill="#0b1220" opacity="0.9" />
+  <rect x="185" y="110" width="230" height="380" rx="26" fill="url(#screen)" />
+  <circle cx="300" cy="485" r="14" fill="#e5e7eb" />
+  <rect x="280" y="90" width="40" height="6" rx="3" fill="#94a3b8" />
+  <rect x="210" y="160" width="180" height="14" rx="7" fill="#bfdbfe" opacity="0.7" />
+  <rect x="210" y="190" width="120" height="12" rx="6" fill="#dbeafe" opacity="0.7" />
+  <rect x="210" y="220" width="140" height="12" rx="6" fill="#e0f2fe" opacity="0.7" />
+</svg>

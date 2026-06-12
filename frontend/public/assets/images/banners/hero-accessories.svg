@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600" role="img" aria-label="Accessories hero illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#fff7ed" />
+      <stop offset="100%" stop-color="#ffe4cc" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fb7185" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)" />
+  <circle cx="120" cy="120" r="70" fill="#f97316" opacity="0.12" />
+  <circle cx="520" cy="480" r="90" fill="#fb7185" opacity="0.12" />
+
+  <!-- Headband -->
+  <path d="M150 360 C160 210, 440 210, 450 360" fill="none" stroke="#111827" stroke-width="22" stroke-linecap="round" />
+  <!-- Left earcup -->
+  <rect x="140" y="340" width="80" height="120" rx="28" fill="#111827" />
+  <rect x="155" y="355" width="50" height="90" rx="18" fill="#e2e8f0" />
+  <!-- Right earcup -->
+  <rect x="380" y="340" width="80" height="120" rx="28" fill="#111827" />
+  <rect x="395" y="355" width="50" height="90" rx="18" fill="#e2e8f0" />
+
+  <!-- Accent cable -->
+  <path d="M300 470 C310 520, 360 540, 420 540" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" />
+</svg>
