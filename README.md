@@ -254,5 +254,5 @@ This project is open-source under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-Built by <a href="https://mohitstack.dev">Mohit</a> · <a href="https://mohitstack.dev">mohitstack.dev</a>
+Built by <a href="https://github.com/M0hitvaghela">Mohit</a> · <a href="https://mohitstack.dev">mohitstack.dev</a>
 </div>
